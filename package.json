@@ -1,0 +1,30 @@
+{
+  "name": "function-configuration-resolver-node",
+  "version": "0.0.1",
+  "description": "A specialized Node.js module to execute all the functions within an object graph, intended to enable post-processing configuration objects.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "config",
+    "node",
+    "configuration-as-code"
+  ],
+  "engines": {
+    "node": "~6.9.0"
+  },
+  "repository": "microsoft/function-configuration-resolver-node",
+  "author": "Microsoft Open Source Programs Office",
+  "contributors": [
+    "Wilcox, Jeff <jwilcox@microsoft.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "object-path": "^0.11.3"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.0"
+  }
+}
+
