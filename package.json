@@ -1,6 +1,6 @@
 {
   "name": "function-configuration-resolver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A specialized Node.js module to execute all the functions within an object graph, intended to enable post-processing configuration objects.",
   "main": "lib/index.js",
   "scripts": {
